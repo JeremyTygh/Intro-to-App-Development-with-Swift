@@ -11,3 +11,8 @@ Projects written for an "Intro to App Development with Swift" course taken in my
 
 <img src="https://user-images.githubusercontent.com/55996049/98619406-2b9ab300-22d1-11eb-89b5-a197cdbd7d47.jpeg" width="200">
 
+### ColorMix
+
+<img src="https://user-images.githubusercontent.com/55996049/98619543-73213f00-22d1-11eb-8ec2-6506a20915a9.jpeg" width="200">
+
+
