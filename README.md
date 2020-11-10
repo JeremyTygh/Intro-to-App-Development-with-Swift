@@ -6,6 +6,7 @@ Here is a link to the (free) book I worked with:
 https://books.apple.com/us/book/intro-to-app-development-with-swift/id1118575552
 
 ## Below are screenshots of the projects running on a simulated iPhone XR
+Images can be clicked on to be viewed in a larger size!
 
 ### AnimalSounds
 ###### An animal sound game for young children--or adults :) 
