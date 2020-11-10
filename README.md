@@ -33,7 +33,7 @@ Images can be clicked on to be viewed in a larger size!
 <img src="https://user-images.githubusercontent.com/55996049/98619692-c5faf680-22d1-11eb-9dcd-c7aec7297dd4.jpeg" width="200">
 
 ### QuestionBot
-###### An app that returns predetermined responses to question asked by the user. 
+###### An app that returns predetermined responses to questions asked by the user. 
 
 <img src="https://user-images.githubusercontent.com/55996049/98619801-f5a9fe80-22d1-11eb-8d04-f2dbb09b91e2.jpeg" width="200">
 
